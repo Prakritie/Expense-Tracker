@@ -1,0 +1,7 @@
+node_modules/
+<<<<<<< HEAD
+dist/
+=======
+*.db
+>>>>>>> f5d7821ad2dd5f7465dd109a6390a538079114fb
+.env
